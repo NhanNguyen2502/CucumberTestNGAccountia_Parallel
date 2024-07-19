@@ -4090,3 +4090,15 @@
 2024-07-12 14:42:18,283 +0700 [main] INFO  (Log.java:12) - Open URL: https://preprod.accountia.no/
 2024-07-12 14:42:25,380 +0700 [main] INFO  (Log.java:12) - Driver is created: ChromeDriver: chrome on windows (fb83c446fb384234e6fc26de73f5e34f)
 2024-07-12 14:44:01,257 +0700 [main] INFO  (Log.java:12) - Open URL: https://preprod.accountia.no/
+2024-07-19 15:55:20,705 +0700 [main] INFO  (Log.java:12) - Driver is created: ChromeDriver: chrome on windows (f18fcc73cd178509becfba00d29b5b8d)
+2024-07-19 15:55:29,556 +0700 [main] INFO  (Log.java:12) - Open URL: https://preprod.accountia.no/
+2024-07-19 15:55:44,864 +0700 [main] INFO  (Log.java:12) - Set text: testdeferp1@mailinator.com on element By.xpath: //input[@id='username']
+2024-07-19 15:56:05,113 +0700 [main] INFO  (Log.java:12) - Set text: Password1234 on element By.xpath: //input[@id='password']
+2024-07-19 15:56:22,046 +0700 [main] INFO  (Log.java:12) - Click element By.xpath: //input[@id='kc-login-button']
+2024-07-19 15:56:57,556 +0700 [main] INFO  (Log.java:12) - Click element By.xpath: //a[@data-cy='sidebar-invoice-link']//span
+2024-07-19 15:57:33,033 +0700 [main] INFO  (Log.java:12) - Click element By.xpath: //act-button[@data-cy='new-invoice-button']//button
+2024-07-19 15:57:58,433 +0700 [main] INFO  (Log.java:12) - Click element By.xpath: //input[@data-cy='draft-invoice-type']
+2024-07-19 15:58:13,832 +0700 [main] INFO  (Log.java:12) - Click element By.xpath: //mat-option[@data-cy='option-0']
+2024-07-19 15:58:34,229 +0700 [main] INFO  (Log.java:12) - Click element By.xpath: //input[@data-cy='select-contact']
+2024-07-19 15:59:09,862 +0700 [main] INFO  (Log.java:12) - Click element By.xpath: //input[@data-cy='select-product']
+2024-07-19 15:59:40,355 +0700 [main] INFO  (Log.java:12) - Click element By.xpath: //act-button[@data-cy='create-invoice-button']//button
